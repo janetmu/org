@@ -82,7 +82,7 @@ const manejarNuevoEquipo = (e) => {
                 actualizarValor={actualizarColor}
                 type="color"
             />
-            <Boton>Registrar Equipo</Boton>
+            <Boton>Registrar</Boton>
         </form>
     </section>
 };

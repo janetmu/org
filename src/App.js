@@ -161,6 +161,9 @@ function App() {
       }
       return colaborador;
     });
+
+    
+    actualizarColaboradores(colaboradoresActualizados)
   };
 
   return (
